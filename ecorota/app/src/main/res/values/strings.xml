@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EcoRota</string>
+    <string name="enter">Entrar</string>
+    <string name="register">Quero me cadastrar</string>
+    <string name="waste_management_illustration">Ilustração de gerenciamento de resíduos</string>
+    <string name="logo_container">Logo do aplicativo</string>
+    <string name="email">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="forgot_password">Esqueci minha senha</string>
+    <string name="name">Nome completo</string>
+    <string name="confirm_password">Confirmar senha</string>
+    <string name="phone">Telefone</string>
+    <string name="register_success">Cadastro realizado com sucesso!</string>
+    <string name="error_empty_fields">Preencha todos os campos</string>
+    <string name="error_invalid_email">E-mail inválido</string>
+    <string name="error_password_mismatch">As senhas não coincidem</string>
+    <string name="error_login_failed">Falha no login. Verifique suas credenciais.</string>
+    <string name="welcome">Bem-vindo</string>
+</resources>
